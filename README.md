@@ -17,6 +17,6 @@ The PSEXEU software is released under a modified MIT license. see Software/Licen
 
 Repository Contents
 -------------------
-* **/Firmware** - XLink_USB.hex - Firmware for **CJMCU Beetle Board_**.
+* **/Firmware** - XLink_USB.hex - Firmware for **CJMCU _Beetle Board_**.
 * **/Hardware** - Hardware design files.
 * **/Software** - Win32/Windows end user software.
